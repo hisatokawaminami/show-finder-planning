@@ -30,6 +30,10 @@ Clone from:https://github.com/hisatokawaminami/central-saloon-react.git
 Run `npm install` in a terminal
 Run `npm run start` for a dev server. Navigate to `http://localhost:8080/`. The app will automatically reload if you change any of the source files.
 
+
+## App Layout
+![](src/assets/images/ShowFinderLayout.png)
+
 ## Component Structure
 ![](src/assets/images/Diagram.png)
 
